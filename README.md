@@ -1,2 +1,2 @@
 # Sigma-5.01
-This is a demo for Git &amp; Github test
+This is a demo for Git &amp; Github test...
